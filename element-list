@@ -7,8 +7,10 @@ br.com.selfmaintenance.app.records.recurso
 br.com.selfmaintenance.app.records.usuario
 br.com.selfmaintenance.app.records.veiculo
 br.com.selfmaintenance.app.services.autenticacao
+br.com.selfmaintenance.app.services.autenticacao.token
 br.com.selfmaintenance.app.services.recurso
 br.com.selfmaintenance.app.services.usuario
+br.com.selfmaintenance.app.services.usuario.prestador
 br.com.selfmaintenance.app.services.veiculo
 br.com.selfmaintenance.app.validations.usuario
 br.com.selfmaintenance.app.validations.veiculo
@@ -23,6 +25,7 @@ br.com.selfmaintenance.infra.repositories.usuario
 br.com.selfmaintenance.infra.repositories.usuario.oficina
 br.com.selfmaintenance.infra.repositories.veiculo
 br.com.selfmaintenance.infra.security
+br.com.selfmaintenance.infra.springdoc
 br.com.selfmaintenance.presentation.http.controllers
 br.com.selfmaintenance.utils.exceptions
 br.com.selfmaintenance.utils.generators
