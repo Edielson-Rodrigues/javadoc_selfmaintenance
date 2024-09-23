@@ -8,6 +8,7 @@ br.com.selfmaintenance.app.records.usuario
 br.com.selfmaintenance.app.records.veiculo
 br.com.selfmaintenance.app.services.autenticacao
 br.com.selfmaintenance.app.services.autenticacao.token
+br.com.selfmaintenance.app.services.procedimento
 br.com.selfmaintenance.app.services.recurso
 br.com.selfmaintenance.app.services.usuario
 br.com.selfmaintenance.app.services.usuario.prestador
@@ -20,6 +21,7 @@ br.com.selfmaintenance.domain.entities.usuario
 br.com.selfmaintenance.domain.entities.usuario.cliente
 br.com.selfmaintenance.domain.entities.usuario.oficina
 br.com.selfmaintenance.domain.entities.veiculo
+br.com.selfmaintenance.infra.repositories.procedimento
 br.com.selfmaintenance.infra.repositories.recurso
 br.com.selfmaintenance.infra.repositories.usuario
 br.com.selfmaintenance.infra.repositories.usuario.oficina
